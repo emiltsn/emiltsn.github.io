@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(245, 245, 245);
 
   font-family: "poppins", sans-serif;
   color: rgb(0, 0, 0);
@@ -125,7 +125,7 @@ div {
 }
 
 .headerspace {
-  margin: 8vh;
+  margin: 5vh;
 }
 
 .header4 {
@@ -262,6 +262,7 @@ div {
 }
 
 .b-about {
+  border-left: 1px solid;
   border-right: 1px solid;
   flex: 75%;
   display: flex;
